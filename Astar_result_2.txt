@@ -1,0 +1,59 @@
+The minist scroe is112	(21)
+The minist scroe is107	(63)
+The minist scroe is113	(45)
+The minist scroe is148	(18)
+The minist scroe is131	(57)
+The time is：268387ms
+
+使用二维bool数组代替closelist优化
+The minist scroe is112	(21)
+The minist scroe is107	(63)
+The minist scroe is113	(45)
+The minist scroe is148	(18)
+The minist scroe is131	(57)
+The time is：17251.4ms
+
+更改启发函数，从设匹配全部成功，到匹配成功率为0.8
+The minist scroe is115	(21)
+The minist scroe is107	(63)
+The minist scroe is113	(45)
+The minist scroe is148	(18)
+The minist scroe is131	(57)
+The time is：8277.81ms
+
+
+匹配成功率为0.6
+The minist scroe is115	(21)
+The minist scroe is108	(63)
+The minist scroe is125	(45)
+The minist scroe is148	(18)
+The minist scroe is131	(57)
+The time is：7519.36ms
+
+匹配成功率为0.7
+The minist scroe is115	(21)
+The minist scroe is107	(63)
+The minist scroe is121	(45)
+The minist scroe is148	(18)
+The minist scroe is131	(57)
+The time is：7784.71ms
+The minist scroe is115	(21)
+The minist scroe is107	(63)
+The minist scroe is120	(45)
+The minist scroe is148	(18)
+The minist scroe is131	(57)
+The time is：8076.26ms
+The minist scroe is115	(21)
+The minist scroe is107	(63)
+The minist scroe is113	(45)
+The minist scroe is148	(18)
+The minist scroe is131	(57)
+The time is：8482.4ms
+
+C = 3
+The minist scroe is120	(21)
+The minist scroe is107	(63)
+The minist scroe is118	(45)
+The minist scroe is148	(18)
+The minist scroe is135	(57)
+The time is：4759.77ms
